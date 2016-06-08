@@ -1,0 +1,6 @@
+[submodule "CarClassifier"]
+	path = CarClassifier
+	url = git@github.com:sanha/CarClassifier.git
+[submodule "car-faster-rcnn"]
+	path = car-faster-rcnn
+	url = git@github.com:lsc2687/car-faster-rcnn.git
